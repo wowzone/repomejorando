@@ -18,4 +18,6 @@ git push origin master
 
 cambios del archivo
 
+git remote add origin https://github... para hacer el fork
+
 ----------------------------------------------
