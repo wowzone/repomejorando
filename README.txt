@@ -1,3 +1,17 @@
-hola mundo
+clase de uso de git y sus comandos
 
-esta es una doc mas amplia y avance mas...
+git init (al iniciar el proyecto)
+
+git remote add origin [https or SSH]
+
+git fetch origin
+
+git merge origin/master
+
+HACEN CAMBIOS
+
+git fetch origin
+
+git merge origin /master
+
+git push origin master
